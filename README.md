@@ -4,6 +4,14 @@
 
 World Network University is an experimental, open-source project exploring what a structured, global, web-native learning institution could look like.
 
+## Founder
+
+**Founded by Yishu Zhang in 2026.**
+
+WNU was initiated by Yishu Zhang as an experiment in building an open digital learning network that can grow through structured courses, technology, and community contribution.
+
+GitHub project origin: `297schcdmc-dotcom/world-network-university`
+
 ## Current status
 
 **Public Alpha**
