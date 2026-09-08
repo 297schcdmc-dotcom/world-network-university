@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://297schcdmc-dotcom.github.io/world-network-university/sitemap.xml
